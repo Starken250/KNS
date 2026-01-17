@@ -1,20 +1,51 @@
 # KNS 🚗
-KNS is a responsive front-end e-commerce website for showcasing supercars and vintage cars. Built using HTML5 and CSS3, the project focuses on modern UI design, clean layouts, and user-friendly navigation, serving as a foundation for future full-stack development.
 
-## Features
+**Luxury & Vintage Cars Front-End Showcase**
+
+KNS is a front-end e-commerce style website built using **HTML5 and CSS3**, designed to showcase luxury supercars and vintage automobiles through a modern, visually rich interface.
+
+The project focuses on clean UI design, responsiveness, and immersive user experience.
+
+---
+
+## 🚀 Key Features
 
 * Responsive and modern UI design
-* Dedicated sections for car listings and details
+* Dedicated sections for luxury and vintage car listings
 * Clean layout with intuitive navigation
+* Interactive **3D rotating Lamborghini model** on the homepage
+* 3D car showcase embedded using **Spline** for a showroom-like experience
 
-## Tech Stack
+---
+
+## 🧠 Project Highlight
+
+The homepage includes an interactive 3D Lamborghini model that rotates automatically, giving users the feel of a real-world automobile showcase.
+This was implemented using **Spline**, enhancing visual engagement and modern web aesthetics.
+
+---
+
+## 🛠️ Tech Stack
 
 * HTML5
 * CSS3
+* Spline (for 3D model integration)
 
-## Future Scope
+---
+
+## 🌐 Live Demo
+
+```
+https://starken250.github.io/KNS/
+```
+
+## 🔮 Future Scope
 
 * JavaScript-based interactivity
 * Backend integration
-* Database and payment gateway support
+* Database connectivity
+* Payment gateway implementation
 
+---
+
+⭐ If you like this project, feel free to star the repository!
