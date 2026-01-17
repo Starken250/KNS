@@ -23,9 +23,3 @@ KNS is a front-end e-commerce website built using HTML5 and CSS3 to showcase lux
 * Backend integration
 * Database and payment gateway support
 
-## Team Members
-
-* Kshitij
-* Yash
-* Shravani
-* Nirvika
